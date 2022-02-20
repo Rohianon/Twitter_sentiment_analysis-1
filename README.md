@@ -23,15 +23,14 @@
 * bag-of-words
 
 ## 🤝 Connect with me on
-## I post daily Machine learning related amazing posts and also post videos and tutorials on youtube .You can subscribe my channel for getting notified when I post video
+## I soon will be posting daily Machine learning related amazing posts and also post videos and tutorials on youtube .You can follow my content on linkedin via this link. 
 
-* Rutvi:
+* Rohi Anon:
 <br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvi-rajesh-5baa641a4/)
-[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech_opedia/)
 
 <br>
 ##Youtube Link
-[![If you liked my content then please like,share and subscribe my channel](https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q)
+https://www.youtube.com/channel/UCwqfU9nsuWiMfug1mDI1-0Q
 
 
 
